@@ -1,0 +1,3 @@
+https://fb00-95-47-250-29.eu.ngrok.io
+https://fb00-95-47-250-29.eu.ngrok.io/Privacy
+https://fb00-95-47-250-29.eu.ngrok.io/Error
